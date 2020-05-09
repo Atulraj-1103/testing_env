@@ -10,6 +10,6 @@ print "docker launched succesfully\n";
 
 print "testing done successfully\n";
 
-ptinred "vds"; 
+ 
 
 ?>
