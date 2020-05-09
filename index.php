@@ -1,13 +1,15 @@
 <?php
 
-print "hi welcome";
+print "hi welcome\n";
 
-print "helloooooooooooooooooo";
+print "helloooooooooooooooooo\n";
 
-print "all set for job1 ooooookkkk";
+print "all set for job1 ooooookkkk\n";
 
-print "docker launched succesfully";
+print "docker launched succesfully\n";
 
-print "testing done successfully";
+print "testing done successfully\n";
+
+ptinred "vds"; 
 
 ?>
