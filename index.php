@@ -1,9 +1,9 @@
 <?php
 
-print "hi welcome"
+print "hi welcome";
 
-print "helloooooooooooooooooo"
+print "helloooooooooooooooooo";
 
-print "all set for job1 ooooookkkk"
+print "all set for job1 ooooookkkk";
 
 ?>
